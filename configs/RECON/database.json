@@ -1,0 +1,5 @@
+{
+  "DB_HOST": "recon-db-prod",
+  "DB_PORT": "1433",
+  "DB_NAME": "RECON"
+}

@@ -1,0 +1,5 @@
+{
+  "PortalEnvironment": "PROD",
+  "Region": "IN",
+  "AuthenticationMode": "SSO"
+}
