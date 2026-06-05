@@ -1,5 +1,5 @@
 {
-  "PortalEnvironment": "DR",
+  "PortalEnvironment": "PROD",
   "Region": "IN",
   "AuthenticationMode": "SSO"
 }
