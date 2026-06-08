@@ -1,5 +1,5 @@
 Application,Version,Environment,Owner,ReleaseDate,Status
-RECON,2.1.0,PROD,Payments Team,2026-06-01,Live
+RECON,2.1.0,UAT,Payments Team,2026-06-01,Live
 TRADING,1.8.4,QA,Trading Team,2026-05-28,Testing
 REPORTING,3.0.1,PROD,Reporting Team,2026-05-15,Live
 SETTLEMENTS,2.5.3,DEV,Operations Team,2026-06-06,Development
