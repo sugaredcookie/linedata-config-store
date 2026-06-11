@@ -1,210 +1,515 @@
 [
   {
     "Client": "JP_MORGAN",
-    "Application": "RECON",
-    "Version": "2.1.0",
-    "PreviousVersion": "2.0.9",
-    "Environment": "UAT",
-    "PreviousEnvironment": "QA",
-    "Owner": "Payments Team",
-    "ReleaseDate": "2026-06-01",
-    "Status": "Ready For Promotion",
-    "Criticality": "HIGH",
-    "LastPromotionDate": "2026-06-01"
+    "Project": "RECON_WEB",
+    "Environment": "QA",
+    "ReleaseId": "RLS-1001",
+    "Version": "2.26.0602.539",
+    "DeploymentDate": "2026-06-10",
+    "Status": "DEPLOYED"
   },
   {
     "Client": "JP_MORGAN",
-    "Application": "TRADING",
-    "Version": "1.8.4",
-    "PreviousVersion": "1.8.3",
-    "Environment": "QA",
-    "PreviousEnvironment": "DEV",
-    "Owner": "Trading Team",
-    "ReleaseDate": "2026-05-28",
-    "Status": "Testing",
-    "Criticality": "HIGH",
-    "LastPromotionDate": "2026-05-28"
+    "Project": "RECON_WEB",
+    "Environment": "UAT",
+    "ReleaseId": "RLS-1001",
+    "Version": "2.26.0602.539",
+    "DeploymentDate": "2026-06-10",
+    "Status": "DEPLOYED"
   },
   {
     "Client": "JP_MORGAN",
-    "Application": "REPORTING",
-    "Version": "3.0.1",
-    "PreviousVersion": "3.0.0",
+    "Project": "RECON_WEB",
     "Environment": "PROD",
-    "PreviousEnvironment": "UAT",
-    "Owner": "Reporting Team",
-    "ReleaseDate": "2026-05-15",
-    "Status": "Live",
-    "Criticality": "MEDIUM",
-    "LastPromotionDate": "2026-05-15"
+    "ReleaseId": "RLS-1000",
+    "Version": "2.26.0522.522",
+    "DeploymentDate": "2026-05-24",
+    "Status": "DEPLOYED"
   },
   {
     "Client": "JP_MORGAN",
-    "Application": "SETTLEMENTS",
-    "Version": "2.5.3",
-    "PreviousVersion": "2.5.2",
-    "Environment": "DEV",
-    "PreviousEnvironment": "DEV",
-    "Owner": "Operations Team",
-    "ReleaseDate": "2026-06-06",
-    "Status": "Development",
-    "Criticality": "HIGH",
-    "LastPromotionDate": "2026-06-06"
-  },
-  {
-    "Client": "MORGAN_STANLEY",
-    "Application": "RECON",
-    "Version": "2.0.9",
-    "PreviousVersion": "2.0.8",
+    "Project": "RECON_API",
     "Environment": "QA",
-    "PreviousEnvironment": "DEV",
-    "Owner": "Payments Team",
-    "ReleaseDate": "2026-05-20",
-    "Status": "Testing",
-    "Criticality": "HIGH",
-    "LastPromotionDate": "2026-05-20"
+    "ReleaseId": "RLS-1001",
+    "Version": "2.26.0602.539",
+    "DeploymentDate": "2026-06-10",
+    "Status": "DEPLOYED"
   },
   {
-    "Client": "MORGAN_STANLEY",
-    "Application": "RISK-MANAGER",
-    "Version": "4.1.2",
-    "PreviousVersion": "4.1.1",
+    "Client": "JP_MORGAN",
+    "Project": "RECON_API",
     "Environment": "UAT",
-    "PreviousEnvironment": "QA",
-    "Owner": "Risk Team",
-    "ReleaseDate": "2026-06-03",
-    "Status": "Ready For Promotion",
-    "Criticality": "HIGH",
-    "LastPromotionDate": "2026-06-03"
+    "ReleaseId": "RLS-1001",
+    "Version": "2.26.0602.539",
+    "DeploymentDate": "2026-06-10",
+    "Status": "DEPLOYED"
   },
   {
-    "Client": "MORGAN_STANLEY",
-    "Application": "MARKET-DATA",
-    "Version": "1.9.0",
-    "PreviousVersion": "1.8.9",
-    "Environment": "QA",
-    "PreviousEnvironment": "DEV",
-    "Owner": "Market Team",
-    "ReleaseDate": "2026-05-30",
-    "Status": "Testing",
-    "Criticality": "MEDIUM",
-    "LastPromotionDate": "2026-05-30"
-  },
-  {
-    "Client": "MORGAN_STANLEY",
-    "Application": "AUTH-SERVICE",
-    "Version": "5.0.0",
-    "PreviousVersion": "4.9.9",
+    "Client": "JP_MORGAN",
+    "Project": "RECON_API",
     "Environment": "PROD",
-    "PreviousEnvironment": "UAT",
-    "Owner": "Platform Team",
-    "ReleaseDate": "2026-05-10",
-    "Status": "Live",
-    "Criticality": "HIGH",
-    "LastPromotionDate": "2026-05-10"
+    "ReleaseId": "RLS-1000",
+    "Version": "2.26.0522.522",
+    "DeploymentDate": "2026-05-24",
+    "Status": "DEPLOYED"
   },
   {
-    "Client": "GOLDMAN_SACHS",
-    "Application": "CLIENT-PORTAL",
-    "Version": "2.7.1",
-    "PreviousVersion": "2.7.0",
-    "Environment": "UAT",
-    "PreviousEnvironment": "QA",
-    "Owner": "Frontend Team",
-    "ReleaseDate": "2026-06-04",
-    "Status": "Ready For Promotion",
-    "Criticality": "MEDIUM",
-    "LastPromotionDate": "2026-06-04"
-  },
-  {
-    "Client": "GOLDMAN_SACHS",
-    "Application": "NOTIFICATION-SERVICE",
-    "Version": "1.4.8",
-    "PreviousVersion": "1.4.7",
-    "Environment": "DEV",
-    "PreviousEnvironment": "DEV",
-    "Owner": "Platform Team",
-    "ReleaseDate": "2026-06-07",
-    "Status": "Development",
-    "Criticality": "LOW",
-    "LastPromotionDate": "2026-06-07"
-  },
-  {
-    "Client": "GOLDMAN_SACHS",
-    "Application": "AUDIT-ENGINE",
-    "Version": "3.2.0",
-    "PreviousVersion": "3.1.9",
+    "Client": "JP_MORGAN",
+    "Project": "RECON_DB",
     "Environment": "QA",
-    "PreviousEnvironment": "DEV",
-    "Owner": "Compliance Team",
-    "ReleaseDate": "2026-06-02",
-    "Status": "Testing",
-    "Criticality": "HIGH",
-    "LastPromotionDate": "2026-06-02"
+    "ReleaseId": "RLS-1001",
+    "Version": "2.26.0602.539",
+    "DeploymentDate": "2026-06-10",
+    "Status": "DEPLOYED"
   },
   {
-    "Client": "GOLDMAN_SACHS",
-    "Application": "PAYMENT-GATEWAY",
-    "Version": "6.0.1",
-    "PreviousVersion": "6.0.0",
+    "Client": "JP_MORGAN",
+    "Project": "RECON_DB",
+    "Environment": "UAT",
+    "ReleaseId": "RLS-1001",
+    "Version": "2.26.0602.539",
+    "DeploymentDate": "2026-06-10",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "JP_MORGAN",
+    "Project": "RECON_DB",
     "Environment": "PROD",
-    "PreviousEnvironment": "UAT",
-    "Owner": "Payments Team",
-    "ReleaseDate": "2026-05-20",
-    "Status": "Live",
-    "Criticality": "HIGH",
-    "LastPromotionDate": "2026-05-20"
+    "ReleaseId": "RLS-1000",
+    "Version": "2.26.0522.522",
+    "DeploymentDate": "2026-05-24",
+    "Status": "DEPLOYED"
   },
   {
-    "Client": "CITI_BANK",
-    "Application": "DATA-WAREHOUSE",
-    "Version": "2.3.5",
-    "PreviousVersion": "2.3.4",
-    "Environment": "UAT",
-    "PreviousEnvironment": "QA",
-    "Owner": "Data Team",
-    "ReleaseDate": "2026-06-01",
-    "Status": "Ready For Promotion",
-    "Criticality": "HIGH",
-    "LastPromotionDate": "2026-06-01"
-  },
-  {
-    "Client": "CITI_BANK",
-    "Application": "RECON",
-    "Version": "2.0.8",
-    "PreviousVersion": "2.0.7",
+    "Client": "JP_MORGAN",
+    "Project": "SSO_WEB",
     "Environment": "QA",
-    "PreviousEnvironment": "DEV",
-    "Owner": "Payments Team",
-    "ReleaseDate": "2026-05-18",
-    "Status": "Testing",
-    "Criticality": "HIGH",
-    "LastPromotionDate": "2026-05-18"
-  },
-  {
-    "Client": "CITI_BANK",
-    "Application": "TRADING",
+    "ReleaseId": "RLS-1101",
     "Version": "1.8.2",
-    "PreviousVersion": "1.8.1",
+    "DeploymentDate": "2026-06-09",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "JP_MORGAN",
+    "Project": "SSO_WEB",
     "Environment": "UAT",
-    "PreviousEnvironment": "QA",
-    "Owner": "Trading Team",
-    "ReleaseDate": "2026-05-25",
-    "Status": "Ready For Promotion",
-    "Criticality": "HIGH",
-    "LastPromotionDate": "2026-05-25"
+    "ReleaseId": "RLS-1101",
+    "Version": "1.8.2",
+    "DeploymentDate": "2026-06-09",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "JP_MORGAN",
+    "Project": "SSO_WEB",
+    "Environment": "PROD",
+    "ReleaseId": "RLS-1100",
+    "Version": "1.8.1",
+    "DeploymentDate": "2026-05-28",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "JP_MORGAN",
+    "Project": "SSO_API",
+    "Environment": "QA",
+    "ReleaseId": "RLS-1101",
+    "Version": "1.8.2",
+    "DeploymentDate": "2026-06-09",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "JP_MORGAN",
+    "Project": "SSO_API",
+    "Environment": "UAT",
+    "ReleaseId": "RLS-1101",
+    "Version": "1.8.2",
+    "DeploymentDate": "2026-06-09",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "JP_MORGAN",
+    "Project": "SSO_API",
+    "Environment": "PROD",
+    "ReleaseId": "RLS-1100",
+    "Version": "1.8.1",
+    "DeploymentDate": "2026-05-28",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "JP_MORGAN",
+    "Project": "DASHBOARD_API",
+    "Environment": "QA",
+    "ReleaseId": "RLS-1201",
+    "Version": "3.2.0",
+    "DeploymentDate": "2026-06-08",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "JP_MORGAN",
+    "Project": "DASHBOARD_API",
+    "Environment": "UAT",
+    "ReleaseId": "RLS-1200",
+    "Version": "3.1.9",
+    "DeploymentDate": "2026-06-01",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "JP_MORGAN",
+    "Project": "DASHBOARD_API",
+    "Environment": "PROD",
+    "ReleaseId": "RLS-1199",
+    "Version": "3.1.8",
+    "DeploymentDate": "2026-05-18",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "MORGAN_STANLEY",
+    "Project": "RECON_WEB",
+    "Environment": "QA",
+    "ReleaseId": "RLS-2001",
+    "Version": "2.26.0602.539",
+    "DeploymentDate": "2026-06-10",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "MORGAN_STANLEY",
+    "Project": "RECON_WEB",
+    "Environment": "UAT",
+    "ReleaseId": "RLS-2000",
+    "Version": "2.26.0522.522",
+    "DeploymentDate": "2026-05-25",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "MORGAN_STANLEY",
+    "Project": "RECON_WEB",
+    "Environment": "PROD",
+    "ReleaseId": "RLS-1999",
+    "Version": "2.26.0424.485",
+    "DeploymentDate": "2026-05-10",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "MORGAN_STANLEY",
+    "Project": "RECON_API",
+    "Environment": "QA",
+    "ReleaseId": "RLS-2001",
+    "Version": "2.26.0602.539",
+    "DeploymentDate": "2026-06-10",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "MORGAN_STANLEY",
+    "Project": "RECON_API",
+    "Environment": "UAT",
+    "ReleaseId": "RLS-2000",
+    "Version": "2.26.0522.522",
+    "DeploymentDate": "2026-05-25",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "MORGAN_STANLEY",
+    "Project": "RECON_API",
+    "Environment": "PROD",
+    "ReleaseId": "RLS-1999",
+    "Version": "2.26.0424.485",
+    "DeploymentDate": "2026-05-10",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "MORGAN_STANLEY",
+    "Project": "GRM_WEB",
+    "Environment": "QA",
+    "ReleaseId": "RLS-2101",
+    "Version": "6.0.0",
+    "DeploymentDate": "2026-06-05",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "MORGAN_STANLEY",
+    "Project": "GRM_WEB",
+    "Environment": "UAT",
+    "ReleaseId": "RLS-2101",
+    "Version": "6.0.0",
+    "DeploymentDate": "2026-06-05",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "MORGAN_STANLEY",
+    "Project": "GRM_WEB",
+    "Environment": "PROD",
+    "ReleaseId": "RLS-2100",
+    "Version": "5.9.8",
+    "DeploymentDate": "2026-05-15",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "MORGAN_STANLEY",
+    "Project": "GRM_API",
+    "Environment": "QA",
+    "ReleaseId": "RLS-2101",
+    "Version": "6.0.0",
+    "DeploymentDate": "2026-06-05",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "MORGAN_STANLEY",
+    "Project": "GRM_API",
+    "Environment": "UAT",
+    "ReleaseId": "RLS-2101",
+    "Version": "6.0.0",
+    "DeploymentDate": "2026-06-05",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "MORGAN_STANLEY",
+    "Project": "GRM_API",
+    "Environment": "PROD",
+    "ReleaseId": "RLS-2100",
+    "Version": "5.9.8",
+    "DeploymentDate": "2026-05-15",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "MORGAN_STANLEY",
+    "Project": "AUTH_WEB",
+    "Environment": "QA",
+    "ReleaseId": "RLS-2201",
+    "Version": "4.0.0",
+    "DeploymentDate": "2026-06-06",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "MORGAN_STANLEY",
+    "Project": "AUTH_WEB",
+    "Environment": "UAT",
+    "ReleaseId": "RLS-2200",
+    "Version": "3.9.9",
+    "DeploymentDate": "2026-05-29",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "MORGAN_STANLEY",
+    "Project": "AUTH_WEB",
+    "Environment": "PROD",
+    "ReleaseId": "RLS-2199",
+    "Version": "3.9.8",
+    "DeploymentDate": "2026-05-10",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "GOLDMAN_SACHS",
+    "Project": "CLIENT_PORTAL_WEB",
+    "Environment": "QA",
+    "ReleaseId": "RLS-3001",
+    "Version": "7.1.0",
+    "DeploymentDate": "2026-06-07",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "GOLDMAN_SACHS",
+    "Project": "CLIENT_PORTAL_WEB",
+    "Environment": "UAT",
+    "ReleaseId": "RLS-3001",
+    "Version": "7.1.0",
+    "DeploymentDate": "2026-06-07",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "GOLDMAN_SACHS",
+    "Project": "CLIENT_PORTAL_WEB",
+    "Environment": "PROD",
+    "ReleaseId": "RLS-3000",
+    "Version": "7.0.8",
+    "DeploymentDate": "2026-05-30",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "GOLDMAN_SACHS",
+    "Project": "CLIENT_PORTAL_API",
+    "Environment": "QA",
+    "ReleaseId": "RLS-3001",
+    "Version": "7.1.0",
+    "DeploymentDate": "2026-06-07",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "GOLDMAN_SACHS",
+    "Project": "CLIENT_PORTAL_API",
+    "Environment": "UAT",
+    "ReleaseId": "RLS-3001",
+    "Version": "7.1.0",
+    "DeploymentDate": "2026-06-07",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "GOLDMAN_SACHS",
+    "Project": "CLIENT_PORTAL_API",
+    "Environment": "PROD",
+    "ReleaseId": "RLS-3000",
+    "Version": "7.0.8",
+    "DeploymentDate": "2026-05-30",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "GOLDMAN_SACHS",
+    "Project": "PAYMENT_GATEWAY_API",
+    "Environment": "QA",
+    "ReleaseId": "RLS-3101",
+    "Version": "9.1.0",
+    "DeploymentDate": "2026-06-08",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "GOLDMAN_SACHS",
+    "Project": "PAYMENT_GATEWAY_API",
+    "Environment": "UAT",
+    "ReleaseId": "RLS-3100",
+    "Version": "9.0.9",
+    "DeploymentDate": "2026-06-02",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "GOLDMAN_SACHS",
+    "Project": "PAYMENT_GATEWAY_API",
+    "Environment": "PROD",
+    "ReleaseId": "RLS-3099",
+    "Version": "9.0.7",
+    "DeploymentDate": "2026-05-18",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "GOLDMAN_SACHS",
+    "Project": "PAYMENT_GATEWAY_DB",
+    "Environment": "QA",
+    "ReleaseId": "RLS-3101",
+    "Version": "9.1.0",
+    "DeploymentDate": "2026-06-08",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "GOLDMAN_SACHS",
+    "Project": "PAYMENT_GATEWAY_DB",
+    "Environment": "UAT",
+    "ReleaseId": "RLS-3100",
+    "Version": "9.0.9",
+    "DeploymentDate": "2026-06-02",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "GOLDMAN_SACHS",
+    "Project": "PAYMENT_GATEWAY_DB",
+    "Environment": "PROD",
+    "ReleaseId": "RLS-3099",
+    "Version": "9.0.7",
+    "DeploymentDate": "2026-05-18",
+    "Status": "DEPLOYED"
   },
   {
     "Client": "CITI_BANK",
-    "Application": "AUTH-SERVICE",
-    "Version": "4.9.8",
-    "PreviousVersion": "4.9.7",
+    "Project": "TRADING_WEB",
+    "Environment": "QA",
+    "ReleaseId": "RLS-4001",
+    "Version": "3.8.0",
+    "DeploymentDate": "2026-06-06",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "CITI_BANK",
+    "Project": "TRADING_WEB",
+    "Environment": "UAT",
+    "ReleaseId": "RLS-4001",
+    "Version": "3.8.0",
+    "DeploymentDate": "2026-06-06",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "CITI_BANK",
+    "Project": "TRADING_WEB",
     "Environment": "PROD",
-    "PreviousEnvironment": "UAT",
-    "Owner": "Platform Team",
-    "ReleaseDate": "2026-05-05",
-    "Status": "Live",
-    "Criticality": "HIGH",
-    "LastPromotionDate": "2026-05-05"
+    "ReleaseId": "RLS-4000",
+    "Version": "3.7.9",
+    "DeploymentDate": "2026-05-25",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "CITI_BANK",
+    "Project": "TRADING_API",
+    "Environment": "QA",
+    "ReleaseId": "RLS-4001",
+    "Version": "3.8.0",
+    "DeploymentDate": "2026-06-06",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "CITI_BANK",
+    "Project": "TRADING_API",
+    "Environment": "UAT",
+    "ReleaseId": "RLS-4001",
+    "Version": "3.8.0",
+    "DeploymentDate": "2026-06-06",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "CITI_BANK",
+    "Project": "TRADING_API",
+    "Environment": "PROD",
+    "ReleaseId": "RLS-4000",
+    "Version": "3.7.9",
+    "DeploymentDate": "2026-05-25",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "CITI_BANK",
+    "Project": "DATA_WAREHOUSE_DB",
+    "Environment": "QA",
+    "ReleaseId": "RLS-4101",
+    "Version": "12.1.0",
+    "DeploymentDate": "2026-06-03",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "CITI_BANK",
+    "Project": "DATA_WAREHOUSE_DB",
+    "Environment": "UAT",
+    "ReleaseId": "RLS-4101",
+    "Version": "12.1.0",
+    "DeploymentDate": "2026-06-03",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "CITI_BANK",
+    "Project": "DATA_WAREHOUSE_DB",
+    "Environment": "PROD",
+    "ReleaseId": "RLS-4100",
+    "Version": "12.0.8",
+    "DeploymentDate": "2026-05-20",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "CITI_BANK",
+    "Project": "AUTH_API",
+    "Environment": "QA",
+    "ReleaseId": "RLS-4201",
+    "Version": "5.2.1",
+    "DeploymentDate": "2026-06-04",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "CITI_BANK",
+    "Project": "AUTH_API",
+    "Environment": "UAT",
+    "ReleaseId": "RLS-4200",
+    "Version": "5.2.0",
+    "DeploymentDate": "2026-05-28",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "CITI_BANK",
+    "Project": "AUTH_API",
+    "Environment": "PROD",
+    "ReleaseId": "RLS-4199",
+    "Version": "5.1.9",
+    "DeploymentDate": "2026-05-12",
+    "Status": "DEPLOYED"
   }
 ]
