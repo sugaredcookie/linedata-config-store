@@ -1,8 +1,8 @@
 [
   {
-    "Client": "BAIN",
-    "Application": "RECON",
-    "Module": "RECON_WEB",
+    "Client": "CLIENT_X",
+    "Application": "APP_ALPHA",
+    "Module": "ALPHA_WEB",
     "Environment": "QA",
     "ReleaseId": "RLS-1001",
     "Version": "2.26.0602.539",
@@ -10,9 +10,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "BAIN",
-    "Application": "RECON",
-    "Module": "RECON_WEB",
+    "Client": "CLIENT_X",
+    "Application": "APP_ALPHA",
+    "Module": "ALPHA_WEB",
     "Environment": "UAT",
     "ReleaseId": "RLS-1000",
     "Version": "2.26.0602.539",
@@ -20,9 +20,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "BAIN",
-    "Application": "RECON",
-    "Module": "RECON_WEB",
+    "Client": "CLIENT_X",
+    "Application": "APP_ALPHA",
+    "Module": "ALPHA_WEB",
     "Environment": "PROD",
     "ReleaseId": "RLS-999",
     "Version": "2.26.0522.522",
@@ -30,9 +30,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "BAIN",
-    "Application": "RECON",
-    "Module": "RECON_API",
+    "Client": "CLIENT_X",
+    "Application": "APP_ALPHA",
+    "Module": "ALPHA_API",
     "Environment": "QA",
     "ReleaseId": "RLS-1001",
     "Version": "2.26.0602.539",
@@ -40,9 +40,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "BAIN",
-    "Application": "RECON",
-    "Module": "RECON_API",
+    "Client": "CLIENT_X",
+    "Application": "APP_ALPHA",
+    "Module": "ALPHA_API",
     "Environment": "UAT",
     "ReleaseId": "RLS-1000",
     "Version": "2.26.0602.539",
@@ -50,9 +50,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "BAIN",
-    "Application": "RECON",
-    "Module": "RECON_API",
+    "Client": "CLIENT_X",
+    "Application": "APP_ALPHA",
+    "Module": "ALPHA_API",
     "Environment": "PROD",
     "ReleaseId": "RLS-999",
     "Version": "2.26.0522.522",
@@ -60,9 +60,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "BAIN",
-    "Application": "GRM",
-    "Module": "GRM_WEB",
+    "Client": "CLIENT_X",
+    "Application": "APP_BETA",
+    "Module": "BETA_WEB",
     "Environment": "QA",
     "ReleaseId": "RLS-1101",
     "Version": "1.8.2",
@@ -70,9 +70,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "BAIN",
-    "Application": "GRM",
-    "Module": "GRM_WEB",
+    "Client": "CLIENT_X",
+    "Application": "APP_BETA",
+    "Module": "BETA_WEB",
     "Environment": "UAT",
     "ReleaseId": "RLS-1100",
     "Version": "1.8.1",
@@ -80,9 +80,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "BAIN",
-    "Application": "GRM",
-    "Module": "GRM_WEB",
+    "Client": "CLIENT_X",
+    "Application": "APP_BETA",
+    "Module": "BETA_WEB",
     "Environment": "PROD",
     "ReleaseId": "RLS-1099",
     "Version": "1.8.0",
@@ -90,9 +90,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "BAIN",
-    "Application": "CIDM",
-    "Module": "CIDM_API",
+    "Client": "CLIENT_X",
+    "Application": "APP_GAMMA",
+    "Module": "GAMMA_API",
     "Environment": "QA",
     "ReleaseId": "RLS-1201",
     "Version": "3.2.0",
@@ -100,9 +100,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "BAIN",
-    "Application": "CIDM",
-    "Module": "CIDM_API",
+    "Client": "CLIENT_X",
+    "Application": "APP_GAMMA",
+    "Module": "GAMMA_API",
     "Environment": "UAT",
     "ReleaseId": "RLS-1200",
     "Version": "3.1.9",
@@ -110,9 +110,9 @@
     "Status": "FAILED"
   },
   {
-    "Client": "BAIN",
-    "Application": "CIDM",
-    "Module": "CIDM_API",
+    "Client": "CLIENT_X",
+    "Application": "APP_GAMMA",
+    "Module": "GAMMA_API",
     "Environment": "PROD",
     "ReleaseId": "RLS-1199",
     "Version": "3.1.8",
@@ -120,9 +120,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "DKCM",
-    "Application": "RECON",
-    "Module": "RECON_WEB",
+    "Client": "CLIENT_Y",
+    "Application": "APP_ALPHA",
+    "Module": "ALPHA_WEB",
     "Environment": "QA",
     "ReleaseId": "RLS-2001",
     "Version": "2.26.0609.548",
@@ -130,9 +130,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "DKCM",
-    "Application": "RECON",
-    "Module": "RECON_WEB",
+    "Client": "CLIENT_Y",
+    "Application": "APP_ALPHA",
+    "Module": "ALPHA_WEB",
     "Environment": "UAT",
     "ReleaseId": "RLS-2000",
     "Version": "2.26.0605.544",
@@ -140,9 +140,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "DKCM",
-    "Application": "RECON",
-    "Module": "RECON_WEB",
+    "Client": "CLIENT_Y",
+    "Application": "APP_ALPHA",
+    "Module": "ALPHA_WEB",
     "Environment": "PROD",
     "ReleaseId": "RLS-1999",
     "Version": "2.26.0525.525",
@@ -150,9 +150,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "DKCM",
-    "Application": "RECON",
-    "Module": "RECON_API",
+    "Client": "CLIENT_Y",
+    "Application": "APP_ALPHA",
+    "Module": "ALPHA_API",
     "Environment": "QA",
     "ReleaseId": "RLS-2001",
     "Version": "2.26.0609.548",
@@ -160,9 +160,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "DKCM",
-    "Application": "RECON",
-    "Module": "RECON_API",
+    "Client": "CLIENT_Y",
+    "Application": "APP_ALPHA",
+    "Module": "ALPHA_API",
     "Environment": "UAT",
     "ReleaseId": "RLS-2000",
     "Version": "2.26.0605.544",
@@ -170,9 +170,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "DKCM",
-    "Application": "RECON",
-    "Module": "RECON_API",
+    "Client": "CLIENT_Y",
+    "Application": "APP_ALPHA",
+    "Module": "ALPHA_API",
     "Environment": "PROD",
     "ReleaseId": "RLS-1999",
     "Version": "2.26.0525.525",
@@ -180,9 +180,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "DKCM",
-    "Application": "GRM",
-    "Module": "GRM_API",
+    "Client": "CLIENT_Y",
+    "Application": "APP_BETA",
+    "Module": "BETA_API",
     "Environment": "QA",
     "ReleaseId": "RLS-2101",
     "Version": "6.0.0",
@@ -190,9 +190,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "DKCM",
-    "Application": "GRM",
-    "Module": "GRM_API",
+    "Client": "CLIENT_Y",
+    "Application": "APP_BETA",
+    "Module": "BETA_API",
     "Environment": "UAT",
     "ReleaseId": "RLS-2100",
     "Version": "5.9.8",
@@ -200,9 +200,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "DKCM",
-    "Application": "GRM",
-    "Module": "GRM_API",
+    "Client": "CLIENT_Y",
+    "Application": "APP_BETA",
+    "Module": "BETA_API",
     "Environment": "PROD",
     "ReleaseId": "RLS-2099",
     "Version": "5.9.6",
@@ -210,9 +210,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "DKCM",
-    "Application": "CIDM",
-    "Module": "CIDM_WEB",
+    "Client": "CLIENT_Y",
+    "Application": "APP_GAMMA",
+    "Module": "GAMMA_WEB",
     "Environment": "QA",
     "ReleaseId": "RLS-2201",
     "Version": "4.0.0",
@@ -220,9 +220,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "DKCM",
-    "Application": "CIDM",
-    "Module": "CIDM_WEB",
+    "Client": "CLIENT_Y",
+    "Application": "APP_GAMMA",
+    "Module": "GAMMA_WEB",
     "Environment": "UAT",
     "ReleaseId": "RLS-2200",
     "Version": "3.9.9",
@@ -230,9 +230,9 @@
     "Status": "FAILED"
   },
   {
-    "Client": "DKCM",
-    "Application": "CIDM",
-    "Module": "CIDM_WEB",
+    "Client": "CLIENT_Y",
+    "Application": "APP_GAMMA",
+    "Module": "GAMMA_WEB",
     "Environment": "PROD",
     "ReleaseId": "RLS-2199",
     "Version": "3.9.8",
@@ -240,9 +240,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "KLIM",
-    "Application": "RECON",
-    "Module": "RECON_WEB",
+    "Client": "CLIENT_Z",
+    "Application": "APP_ALPHA",
+    "Module": "ALPHA_WEB",
     "Environment": "QA",
     "ReleaseId": "RLS-3001",
     "Version": "2.26.0610.551",
@@ -250,9 +250,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "KLIM",
-    "Application": "RECON",
-    "Module": "RECON_WEB",
+    "Client": "CLIENT_Z",
+    "Application": "APP_ALPHA",
+    "Module": "ALPHA_WEB",
     "Environment": "UAT",
     "ReleaseId": "RLS-3000",
     "Version": "2.26.0606.546",
@@ -260,9 +260,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "KLIM",
-    "Application": "RECON",
-    "Module": "RECON_WEB",
+    "Client": "CLIENT_Z",
+    "Application": "APP_ALPHA",
+    "Module": "ALPHA_WEB",
     "Environment": "PROD",
     "ReleaseId": "RLS-2999",
     "Version": "2.26.0526.526",
@@ -270,9 +270,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "KLIM",
-    "Application": "RECON",
-    "Module": "RECON_DB",
+    "Client": "CLIENT_Z",
+    "Application": "APP_ALPHA",
+    "Module": "ALPHA_DB",
     "Environment": "QA",
     "ReleaseId": "RLS-3001",
     "Version": "2.26.0610.552",
@@ -280,9 +280,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "KLIM",
-    "Application": "RECON",
-    "Module": "RECON_DB",
+    "Client": "CLIENT_Z",
+    "Application": "APP_ALPHA",
+    "Module": "ALPHA_DB",
     "Environment": "UAT",
     "ReleaseId": "RLS-3000",
     "Version": "2.26.0606.547",
@@ -290,9 +290,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "KLIM",
-    "Application": "RECON",
-    "Module": "RECON_DB",
+    "Client": "CLIENT_Z",
+    "Application": "APP_ALPHA",
+    "Module": "ALPHA_DB",
     "Environment": "PROD",
     "ReleaseId": "RLS-2999",
     "Version": "2.26.0525.525",
@@ -300,9 +300,9 @@
     "Status": "FAILED"
   },
   {
-    "Client": "KLIM",
-    "Application": "GRM",
-    "Module": "GRM_WEB",
+    "Client": "CLIENT_Z",
+    "Application": "APP_BETA",
+    "Module": "BETA_WEB",
     "Environment": "QA",
     "ReleaseId": "RLS-3101",
     "Version": "6.2.0",
@@ -310,9 +310,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "KLIM",
-    "Application": "GRM",
-    "Module": "GRM_WEB",
+    "Client": "CLIENT_Z",
+    "Application": "APP_BETA",
+    "Module": "BETA_WEB",
     "Environment": "UAT",
     "ReleaseId": "RLS-3100",
     "Version": "6.1.8",
@@ -320,9 +320,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "KLIM",
-    "Application": "GRM",
-    "Module": "GRM_WEB",
+    "Client": "CLIENT_Z",
+    "Application": "APP_BETA",
+    "Module": "BETA_WEB",
     "Environment": "PROD",
     "ReleaseId": "RLS-3099",
     "Version": "6.1.5",
@@ -330,9 +330,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "JPMC",
-    "Application": "RECON",
-    "Module": "RECON_WEB",
+    "Client": "CLIENT_A",
+    "Application": "APP_ALPHA",
+    "Module": "ALPHA_WEB",
     "Environment": "QA",
     "ReleaseId": "RLS-4001",
     "Version": "2.30.0101.600",
@@ -340,9 +340,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "JPMC",
-    "Application": "RECON",
-    "Module": "RECON_WEB",
+    "Client": "CLIENT_A",
+    "Application": "APP_ALPHA",
+    "Module": "ALPHA_WEB",
     "Environment": "UAT",
     "ReleaseId": "RLS-4000",
     "Version": "2.29.1225.598",
@@ -350,9 +350,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "JPMC",
-    "Application": "RECON",
-    "Module": "RECON_WEB",
+    "Client": "CLIENT_A",
+    "Application": "APP_ALPHA",
+    "Module": "ALPHA_WEB",
     "Environment": "PROD",
     "ReleaseId": "RLS-3999",
     "Version": "2.29.1201.590",
@@ -360,9 +360,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "JPMC",
-    "Application": "PAYMENTS",
-    "Module": "PAYMENT_API",
+    "Client": "CLIENT_A",
+    "Application": "APP_DELTA",
+    "Module": "DELTA_API",
     "Environment": "QA",
     "ReleaseId": "RLS-4101",
     "Version": "9.1.0",
@@ -370,9 +370,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "JPMC",
-    "Application": "PAYMENTS",
-    "Module": "PAYMENT_API",
+    "Client": "CLIENT_A",
+    "Application": "APP_DELTA",
+    "Module": "DELTA_API",
     "Environment": "UAT",
     "ReleaseId": "RLS-4100",
     "Version": "9.0.9",
@@ -380,9 +380,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "JPMC",
-    "Application": "PAYMENTS",
-    "Module": "PAYMENT_API",
+    "Client": "CLIENT_A",
+    "Application": "APP_DELTA",
+    "Module": "DELTA_API",
     "Environment": "PROD",
     "ReleaseId": "RLS-4099",
     "Version": "9.0.7",
@@ -390,9 +390,9 @@
     "Status": "FAILED"
   },
   {
-    "Client": "JPMC",
-    "Application": "AUTH",
-    "Module": "AUTH_WEB",
+    "Client": "CLIENT_A",
+    "Application": "APP_EPSILON",
+    "Module": "EPSILON_WEB",
     "Environment": "QA",
     "ReleaseId": "RLS-4201",
     "Version": "5.2.1",
@@ -400,9 +400,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "JPMC",
-    "Application": "AUTH",
-    "Module": "AUTH_WEB",
+    "Client": "CLIENT_A",
+    "Application": "APP_EPSILON",
+    "Module": "EPSILON_WEB",
     "Environment": "UAT",
     "ReleaseId": "RLS-4200",
     "Version": "5.2.0",
@@ -410,9 +410,9 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "JPMC",
-    "Application": "AUTH",
-    "Module": "AUTH_WEB",
+    "Client": "CLIENT_A",
+    "Application": "APP_EPSILON",
+    "Module": "EPSILON_WEB",
     "Environment": "PROD",
     "ReleaseId": "RLS-4199",
     "Version": "5.1.9",
