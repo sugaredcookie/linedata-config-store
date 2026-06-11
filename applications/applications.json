@@ -84,8 +84,8 @@
     "Client": "JP_MORGAN",
     "Project": "RECON_DB",
     "Environment": "PROD",
-    "ReleaseId": "RLS-1000",
-    "Version": "2.26.0522.522",
+    "ReleaseId": "RLS-1001",
+    "Version": "2.26.0602.539",
     "DeploymentDate": "2026-06-11",
     "Status": "DEPLOYED"
   },
