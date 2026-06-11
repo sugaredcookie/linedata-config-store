@@ -165,9 +165,9 @@
     "Client": "JP_MORGAN",
     "Project": "DASHBOARD_API",
     "Environment": "UAT",
-    "ReleaseId": "RLS-1200",
-    "Version": "3.1.9",
-    "DeploymentDate": "2026-06-01",
+    "ReleaseId": "RLS-1201",
+    "Version": "3.2.0",
+    "DeploymentDate": "2026-06-11",
     "Status": "DEPLOYED"
   },
   {
