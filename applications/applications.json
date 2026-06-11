@@ -1,9 +1,6 @@
 [
   {
-    "Client": ""
-  },
-  {
-    "Client": "JP_MORGAN",
+    "Client": "BAIN",
     "Project": "RECON_WEB",
     "Environment": "QA",
     "ReleaseId": "RLS-1001",
@@ -12,28 +9,25 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "JP_MORGAN",
+    "Client": "BAIN",
     "Project": "RECON_WEB",
     "Environment": "UAT",
-    "ReleaseId": "RLS-1001",
+    "ReleaseId": "RLS-1000",
     "Version": "2.26.0602.539",
-    "DeploymentDate": "2026-06-11",
+    "DeploymentDate": "2026-06-02",
     "Status": "DEPLOYED"
   },
   {
-    "Client": "JP_MORGAN",
+    "Client": "BAIN",
     "Project": "RECON_WEB",
     "Environment": "PROD",
-    "ReleaseId": "RLS-1000",
+    "ReleaseId": "RLS-999",
     "Version": "2.26.0522.522",
     "DeploymentDate": "2026-05-24",
     "Status": "DEPLOYED"
   },
   {
-    "Client": ""
-  },
-  {
-    "Client": "JP_MORGAN",
+    "Client": "BAIN",
     "Project": "RECON_API",
     "Environment": "QA",
     "ReleaseId": "RLS-1001",
@@ -42,540 +36,210 @@
     "Status": "DEPLOYED"
   },
   {
-    "Client": "JP_MORGAN",
+    "Client": "BAIN",
     "Project": "RECON_API",
     "Environment": "UAT",
-    "ReleaseId": "RLS-1001",
+    "ReleaseId": "RLS-1000",
     "Version": "2.26.0602.539",
-    "DeploymentDate": "2026-06-10",
+    "DeploymentDate": "2026-06-02",
     "Status": "DEPLOYED"
   },
   {
-    "Client": "JP_MORGAN",
+    "Client": "BAIN",
     "Project": "RECON_API",
     "Environment": "PROD",
-    "ReleaseId": "RLS-1000",
+    "ReleaseId": "RLS-999",
     "Version": "2.26.0522.522",
     "DeploymentDate": "2026-05-24",
     "Status": "DEPLOYED"
   },
   {
-    "Client": ""
-  },
-  {
-    "Client": "JP_MORGAN",
+    "Client": "BAIN",
     "Project": "RECON_DB",
     "Environment": "QA",
     "ReleaseId": "RLS-1001",
-    "Version": "2.26.0602.539",
+    "Version": "2.26.0602.540",
     "DeploymentDate": "2026-06-10",
     "Status": "DEPLOYED"
   },
   {
-    "Client": "JP_MORGAN",
+    "Client": "BAIN",
     "Project": "RECON_DB",
     "Environment": "UAT",
-    "ReleaseId": "RLS-1001",
-    "Version": "2.26.0602.539",
-    "DeploymentDate": "2026-06-10",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": "JP_MORGAN",
-    "Project": "RECON_DB",
-    "Environment": "PROD",
-    "ReleaseId": "RLS-1001",
-    "Version": "2.26.0602.539",
-    "DeploymentDate": "2026-06-11",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": ""
-  },
-  {
-    "Client": "JP_MORGAN",
-    "Project": "SSO_WEB",
-    "Environment": "QA",
-    "ReleaseId": "RLS-1101",
-    "Version": "1.8.2",
-    "DeploymentDate": "2026-06-09",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": "JP_MORGAN",
-    "Project": "SSO_WEB",
-    "Environment": "UAT",
-    "ReleaseId": "RLS-1101",
-    "Version": "1.8.2",
-    "DeploymentDate": "2026-06-09",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": "JP_MORGAN",
-    "Project": "SSO_WEB",
-    "Environment": "PROD",
-    "ReleaseId": "RLS-1100",
-    "Version": "1.8.1",
-    "DeploymentDate": "2026-05-28",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": ""
-  },
-  {
-    "Client": "JP_MORGAN",
-    "Project": "SSO_API",
-    "Environment": "QA",
-    "ReleaseId": "RLS-1101",
-    "Version": "1.8.2",
-    "DeploymentDate": "2026-06-09",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": "JP_MORGAN",
-    "Project": "SSO_API",
-    "Environment": "UAT",
-    "ReleaseId": "RLS-1101",
-    "Version": "1.8.2",
-    "DeploymentDate": "2026-06-09",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": "JP_MORGAN",
-    "Project": "SSO_API",
-    "Environment": "PROD",
-    "ReleaseId": "RLS-1100",
-    "Version": "1.8.1",
-    "DeploymentDate": "2026-05-28",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": ""
-  },
-  {
-    "Client": "JP_MORGAN",
-    "Project": "DASHBOARD_API",
-    "Environment": "QA",
-    "ReleaseId": "RLS-1201",
-    "Version": "3.2.0",
-    "DeploymentDate": "2026-06-08",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": "JP_MORGAN",
-    "Project": "DASHBOARD_API",
-    "Environment": "UAT",
-    "ReleaseId": "RLS-1201",
-    "Version": "3.2.0",
-    "DeploymentDate": "2026-06-11",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": "JP_MORGAN",
-    "Project": "DASHBOARD_API",
-    "Environment": "PROD",
-    "ReleaseId": "RLS-1199",
-    "Version": "3.1.8",
-    "DeploymentDate": "2026-05-18",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": ""
-  },
-  {
-    "Client": ""
-  },
-  {
-    "Client": "MORGAN_STANLEY",
-    "Project": "RECON_WEB",
-    "Environment": "QA",
-    "ReleaseId": "RLS-2001",
-    "Version": "2.26.0602.539",
-    "DeploymentDate": "2026-06-10",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": "MORGAN_STANLEY",
-    "Project": "RECON_WEB",
-    "Environment": "UAT",
-    "ReleaseId": "RLS-2000",
-    "Version": "2.26.0522.522",
-    "DeploymentDate": "2026-05-25",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": "MORGAN_STANLEY",
-    "Project": "RECON_WEB",
-    "Environment": "PROD",
-    "ReleaseId": "RLS-1999",
-    "Version": "2.26.0424.485",
-    "DeploymentDate": "2026-05-10",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": ""
-  },
-  {
-    "Client": "MORGAN_STANLEY",
-    "Project": "RECON_API",
-    "Environment": "QA",
-    "ReleaseId": "RLS-2001",
-    "Version": "2.26.0602.539",
-    "DeploymentDate": "2026-06-10",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": "MORGAN_STANLEY",
-    "Project": "RECON_API",
-    "Environment": "UAT",
-    "ReleaseId": "RLS-2000",
-    "Version": "2.26.0522.522",
-    "DeploymentDate": "2026-05-25",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": "MORGAN_STANLEY",
-    "Project": "RECON_API",
-    "Environment": "PROD",
-    "ReleaseId": "RLS-1999",
-    "Version": "2.26.0424.485",
-    "DeploymentDate": "2026-05-10",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": ""
-  },
-  {
-    "Client": "MORGAN_STANLEY",
-    "Project": "GRM_WEB",
-    "Environment": "QA",
-    "ReleaseId": "RLS-2101",
-    "Version": "6.0.0",
-    "DeploymentDate": "2026-06-05",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": "MORGAN_STANLEY",
-    "Project": "GRM_WEB",
-    "Environment": "UAT",
-    "ReleaseId": "RLS-2101",
-    "Version": "6.0.0",
-    "DeploymentDate": "2026-06-05",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": "MORGAN_STANLEY",
-    "Project": "GRM_WEB",
-    "Environment": "PROD",
-    "ReleaseId": "RLS-2100",
-    "Version": "5.9.8",
-    "DeploymentDate": "2026-05-15",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": ""
-  },
-  {
-    "Client": "MORGAN_STANLEY",
-    "Project": "GRM_API",
-    "Environment": "QA",
-    "ReleaseId": "RLS-2101",
-    "Version": "6.0.0",
-    "DeploymentDate": "2026-06-05",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": "MORGAN_STANLEY",
-    "Project": "GRM_API",
-    "Environment": "UAT",
-    "ReleaseId": "RLS-2101",
-    "Version": "6.0.0",
-    "DeploymentDate": "2026-06-05",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": "MORGAN_STANLEY",
-    "Project": "GRM_API",
-    "Environment": "PROD",
-    "ReleaseId": "RLS-2100",
-    "Version": "5.9.8",
-    "DeploymentDate": "2026-05-15",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": ""
-  },
-  {
-    "Client": "MORGAN_STANLEY",
-    "Project": "AUTH_WEB",
-    "Environment": "QA",
-    "ReleaseId": "RLS-2201",
-    "Version": "4.0.0",
-    "DeploymentDate": "2026-06-06",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": "MORGAN_STANLEY",
-    "Project": "AUTH_WEB",
-    "Environment": "UAT",
-    "ReleaseId": "RLS-2200",
-    "Version": "3.9.9",
-    "DeploymentDate": "2026-05-29",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": "MORGAN_STANLEY",
-    "Project": "AUTH_WEB",
-    "Environment": "PROD",
-    "ReleaseId": "RLS-2199",
-    "Version": "3.9.8",
-    "DeploymentDate": "2026-05-10",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": ""
-  },
-  {
-    "Client": ""
-  },
-  {
-    "Client": "GOLDMAN_SACHS",
-    "Project": "CLIENT_PORTAL_WEB",
-    "Environment": "QA",
-    "ReleaseId": "RLS-3001",
-    "Version": "7.1.0",
-    "DeploymentDate": "2026-06-07",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": "GOLDMAN_SACHS",
-    "Project": "CLIENT_PORTAL_WEB",
-    "Environment": "UAT",
-    "ReleaseId": "RLS-3001",
-    "Version": "7.1.0",
-    "DeploymentDate": "2026-06-07",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": "GOLDMAN_SACHS",
-    "Project": "CLIENT_PORTAL_WEB",
-    "Environment": "PROD",
-    "ReleaseId": "RLS-3000",
-    "Version": "7.0.8",
-    "DeploymentDate": "2026-05-30",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": ""
-  },
-  {
-    "Client": "GOLDMAN_SACHS",
-    "Project": "CLIENT_PORTAL_API",
-    "Environment": "QA",
-    "ReleaseId": "RLS-3001",
-    "Version": "7.1.0",
-    "DeploymentDate": "2026-06-07",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": "GOLDMAN_SACHS",
-    "Project": "CLIENT_PORTAL_API",
-    "Environment": "UAT",
-    "ReleaseId": "RLS-3001",
-    "Version": "7.1.0",
-    "DeploymentDate": "2026-06-07",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": "GOLDMAN_SACHS",
-    "Project": "CLIENT_PORTAL_API",
-    "Environment": "PROD",
-    "ReleaseId": "RLS-3000",
-    "Version": "7.0.8",
-    "DeploymentDate": "2026-05-30",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": ""
-  },
-  {
-    "Client": "GOLDMAN_SACHS",
-    "Project": "PAYMENT_GATEWAY_API",
-    "Environment": "QA",
-    "ReleaseId": "RLS-3101",
-    "Version": "9.1.0",
-    "DeploymentDate": "2026-06-08",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": "GOLDMAN_SACHS",
-    "Project": "PAYMENT_GATEWAY_API",
-    "Environment": "UAT",
-    "ReleaseId": "RLS-3100",
-    "Version": "9.0.9",
+    "ReleaseId": "RLS-1000",
+    "Version": "2.26.0602.540",
     "DeploymentDate": "2026-06-02",
     "Status": "DEPLOYED"
   },
   {
-    "Client": "GOLDMAN_SACHS",
-    "Project": "PAYMENT_GATEWAY_API",
+    "Client": "BAIN",
+    "Project": "RECON_DB",
     "Environment": "PROD",
-    "ReleaseId": "RLS-3099",
-    "Version": "9.0.7",
-    "DeploymentDate": "2026-05-18",
+    "ReleaseId": "RLS-999",
+    "Version": "2.26.0520.520",
+    "DeploymentDate": "2026-05-24",
     "Status": "DEPLOYED"
   },
   {
-    "Client": ""
-  },
-  {
-    "Client": "GOLDMAN_SACHS",
-    "Project": "PAYMENT_GATEWAY_DB",
+    "Client": "DKCM",
+    "Project": "RECON_WEB",
     "Environment": "QA",
-    "ReleaseId": "RLS-3101",
-    "Version": "9.1.0",
-    "DeploymentDate": "2026-06-08",
+    "ReleaseId": "RLS-2001",
+    "Version": "2.26.0609.548",
+    "DeploymentDate": "2026-06-10",
     "Status": "DEPLOYED"
   },
   {
-    "Client": "GOLDMAN_SACHS",
-    "Project": "PAYMENT_GATEWAY_DB",
+    "Client": "DKCM",
+    "Project": "RECON_WEB",
     "Environment": "UAT",
-    "ReleaseId": "RLS-3100",
-    "Version": "9.0.9",
-    "DeploymentDate": "2026-06-02",
+    "ReleaseId": "RLS-2000",
+    "Version": "2.26.0605.544",
+    "DeploymentDate": "2026-06-05",
     "Status": "DEPLOYED"
   },
   {
-    "Client": "GOLDMAN_SACHS",
-    "Project": "PAYMENT_GATEWAY_DB",
+    "Client": "DKCM",
+    "Project": "RECON_WEB",
     "Environment": "PROD",
-    "ReleaseId": "RLS-3099",
-    "Version": "9.0.7",
-    "DeploymentDate": "2026-05-18",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": ""
-  },
-  {
-    "Client": ""
-  },
-  {
-    "Client": "CITI_BANK",
-    "Project": "TRADING_WEB",
-    "Environment": "QA",
-    "ReleaseId": "RLS-4001",
-    "Version": "3.8.0",
-    "DeploymentDate": "2026-06-06",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": "CITI_BANK",
-    "Project": "TRADING_WEB",
-    "Environment": "UAT",
-    "ReleaseId": "RLS-4001",
-    "Version": "3.8.0",
-    "DeploymentDate": "2026-06-06",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": "CITI_BANK",
-    "Project": "TRADING_WEB",
-    "Environment": "PROD",
-    "ReleaseId": "RLS-4000",
-    "Version": "3.7.9",
+    "ReleaseId": "RLS-1999",
+    "Version": "2.26.0525.525",
     "DeploymentDate": "2026-05-25",
     "Status": "DEPLOYED"
   },
   {
-    "Client": ""
-  },
-  {
-    "Client": "CITI_BANK",
-    "Project": "TRADING_API",
+    "Client": "DKCM",
+    "Project": "RECON_API",
     "Environment": "QA",
-    "ReleaseId": "RLS-4001",
-    "Version": "3.8.0",
-    "DeploymentDate": "2026-06-06",
+    "ReleaseId": "RLS-2001",
+    "Version": "2.26.0609.548",
+    "DeploymentDate": "2026-06-10",
     "Status": "DEPLOYED"
   },
   {
-    "Client": "CITI_BANK",
-    "Project": "TRADING_API",
+    "Client": "DKCM",
+    "Project": "RECON_API",
     "Environment": "UAT",
-    "ReleaseId": "RLS-4001",
-    "Version": "3.8.0",
-    "DeploymentDate": "2026-06-06",
+    "ReleaseId": "RLS-2000",
+    "Version": "2.26.0605.544",
+    "DeploymentDate": "2026-06-05",
     "Status": "DEPLOYED"
   },
   {
-    "Client": "CITI_BANK",
-    "Project": "TRADING_API",
+    "Client": "DKCM",
+    "Project": "RECON_API",
     "Environment": "PROD",
-    "ReleaseId": "RLS-4000",
-    "Version": "3.7.9",
+    "ReleaseId": "RLS-1999",
+    "Version": "2.26.0525.525",
     "DeploymentDate": "2026-05-25",
     "Status": "DEPLOYED"
   },
   {
-    "Client": ""
-  },
-  {
-    "Client": "CITI_BANK",
-    "Project": "DATA_WAREHOUSE_DB",
+    "Client": "DKCM",
+    "Project": "RECON_DB",
     "Environment": "QA",
-    "ReleaseId": "RLS-4101",
-    "Version": "12.1.0",
-    "DeploymentDate": "2026-06-03",
+    "ReleaseId": "RLS-2001",
+    "Version": "2.26.0609.549",
+    "DeploymentDate": "2026-06-10",
     "Status": "DEPLOYED"
   },
   {
-    "Client": "CITI_BANK",
-    "Project": "DATA_WAREHOUSE_DB",
+    "Client": "DKCM",
+    "Project": "RECON_DB",
     "Environment": "UAT",
-    "ReleaseId": "RLS-4101",
-    "Version": "12.1.0",
-    "DeploymentDate": "2026-06-03",
+    "ReleaseId": "RLS-2000",
+    "Version": "2.26.0605.545",
+    "DeploymentDate": "2026-06-05",
     "Status": "DEPLOYED"
   },
   {
-    "Client": "CITI_BANK",
-    "Project": "DATA_WAREHOUSE_DB",
+    "Client": "DKCM",
+    "Project": "RECON_DB",
     "Environment": "PROD",
-    "ReleaseId": "RLS-4100",
-    "Version": "12.0.8",
-    "DeploymentDate": "2026-05-20",
+    "ReleaseId": "RLS-1999",
+    "Version": "2.26.0524.524",
+    "DeploymentDate": "2026-05-25",
     "Status": "DEPLOYED"
   },
   {
-    "Client": ""
-  },
-  {
-    "Client": "CITI_BANK",
-    "Project": "AUTH_API",
+    "Client": "KLIM",
+    "Project": "RECON_WEB",
     "Environment": "QA",
-    "ReleaseId": "RLS-4201",
-    "Version": "5.2.1",
-    "DeploymentDate": "2026-06-04",
+    "ReleaseId": "RLS-3001",
+    "Version": "2.26.0610.551",
+    "DeploymentDate": "2026-06-10",
     "Status": "DEPLOYED"
   },
   {
-    "Client": "CITI_BANK",
-    "Project": "AUTH_API",
+    "Client": "KLIM",
+    "Project": "RECON_WEB",
     "Environment": "UAT",
-    "ReleaseId": "RLS-4200",
-    "Version": "5.2.0",
-    "DeploymentDate": "2026-05-28",
+    "ReleaseId": "RLS-3000",
+    "Version": "2.26.0606.546",
+    "DeploymentDate": "2026-06-06",
     "Status": "DEPLOYED"
   },
   {
-    "Client": "CITI_BANK",
-    "Project": "AUTH_API",
+    "Client": "KLIM",
+    "Project": "RECON_WEB",
     "Environment": "PROD",
-    "ReleaseId": "RLS-4199",
-    "Version": "5.1.9",
-    "DeploymentDate": "2026-05-12",
+    "ReleaseId": "RLS-2999",
+    "Version": "2.26.0526.526",
+    "DeploymentDate": "2026-05-26",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "KLIM",
+    "Project": "RECON_API",
+    "Environment": "QA",
+    "ReleaseId": "RLS-3001",
+    "Version": "2.26.0610.551",
+    "DeploymentDate": "2026-06-10",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "KLIM",
+    "Project": "RECON_API",
+    "Environment": "UAT",
+    "ReleaseId": "RLS-3000",
+    "Version": "2.26.0606.546",
+    "DeploymentDate": "2026-06-06",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "KLIM",
+    "Project": "RECON_API",
+    "Environment": "PROD",
+    "ReleaseId": "RLS-2999",
+    "Version": "2.26.0526.526",
+    "DeploymentDate": "2026-05-26",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "KLIM",
+    "Project": "RECON_DB",
+    "Environment": "QA",
+    "ReleaseId": "RLS-3001",
+    "Version": "2.26.0610.552",
+    "DeploymentDate": "2026-06-10",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "KLIM",
+    "Project": "RECON_DB",
+    "Environment": "UAT",
+    "ReleaseId": "RLS-3000",
+    "Version": "2.26.0606.547",
+    "DeploymentDate": "2026-06-06",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "KLIM",
+    "Project": "RECON_DB",
+    "Environment": "PROD",
+    "ReleaseId": "RLS-2999",
+    "Version": "2.26.0525.525",
+    "DeploymentDate": "2026-05-26",
     "Status": "DEPLOYED"
   }
 ]
