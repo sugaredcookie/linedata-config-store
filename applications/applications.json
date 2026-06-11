@@ -1,7 +1,8 @@
 [
   {
     "Client": "BAIN",
-    "Project": "RECON_WEB",
+    "Application": "RECON",
+    "Module": "RECON_WEB",
     "Environment": "QA",
     "ReleaseId": "RLS-1001",
     "Version": "2.26.0602.539",
@@ -10,7 +11,8 @@
   },
   {
     "Client": "BAIN",
-    "Project": "RECON_WEB",
+    "Application": "RECON",
+    "Module": "RECON_WEB",
     "Environment": "UAT",
     "ReleaseId": "RLS-1000",
     "Version": "2.26.0602.539",
@@ -19,7 +21,8 @@
   },
   {
     "Client": "BAIN",
-    "Project": "RECON_WEB",
+    "Application": "RECON",
+    "Module": "RECON_WEB",
     "Environment": "PROD",
     "ReleaseId": "RLS-999",
     "Version": "2.26.0522.522",
@@ -28,7 +31,8 @@
   },
   {
     "Client": "BAIN",
-    "Project": "RECON_API",
+    "Application": "RECON",
+    "Module": "RECON_API",
     "Environment": "QA",
     "ReleaseId": "RLS-1001",
     "Version": "2.26.0602.539",
@@ -37,7 +41,8 @@
   },
   {
     "Client": "BAIN",
-    "Project": "RECON_API",
+    "Application": "RECON",
+    "Module": "RECON_API",
     "Environment": "UAT",
     "ReleaseId": "RLS-1000",
     "Version": "2.26.0602.539",
@@ -46,7 +51,8 @@
   },
   {
     "Client": "BAIN",
-    "Project": "RECON_API",
+    "Application": "RECON",
+    "Module": "RECON_API",
     "Environment": "PROD",
     "ReleaseId": "RLS-999",
     "Version": "2.26.0522.522",
@@ -55,34 +61,68 @@
   },
   {
     "Client": "BAIN",
-    "Project": "RECON_DB",
+    "Application": "GRM",
+    "Module": "GRM_WEB",
     "Environment": "QA",
-    "ReleaseId": "RLS-1001",
-    "Version": "2.26.0602.540",
-    "DeploymentDate": "2026-06-10",
+    "ReleaseId": "RLS-1101",
+    "Version": "1.8.2",
+    "DeploymentDate": "2026-06-09",
     "Status": "DEPLOYED"
   },
   {
     "Client": "BAIN",
-    "Project": "RECON_DB",
+    "Application": "GRM",
+    "Module": "GRM_WEB",
     "Environment": "UAT",
-    "ReleaseId": "RLS-1000",
-    "Version": "2.26.0602.540",
+    "ReleaseId": "RLS-1100",
+    "Version": "1.8.1",
     "DeploymentDate": "2026-06-02",
     "Status": "DEPLOYED"
   },
   {
     "Client": "BAIN",
-    "Project": "RECON_DB",
+    "Application": "GRM",
+    "Module": "GRM_WEB",
     "Environment": "PROD",
-    "ReleaseId": "RLS-999",
-    "Version": "2.26.0520.520",
-    "DeploymentDate": "2026-05-24",
+    "ReleaseId": "RLS-1099",
+    "Version": "1.8.0",
+    "DeploymentDate": "2026-05-20",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "BAIN",
+    "Application": "CIDM",
+    "Module": "CIDM_API",
+    "Environment": "QA",
+    "ReleaseId": "RLS-1201",
+    "Version": "3.2.0",
+    "DeploymentDate": "2026-06-08",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "BAIN",
+    "Application": "CIDM",
+    "Module": "CIDM_API",
+    "Environment": "UAT",
+    "ReleaseId": "RLS-1200",
+    "Version": "3.1.9",
+    "DeploymentDate": "2026-06-01",
+    "Status": "FAILED"
+  },
+  {
+    "Client": "BAIN",
+    "Application": "CIDM",
+    "Module": "CIDM_API",
+    "Environment": "PROD",
+    "ReleaseId": "RLS-1199",
+    "Version": "3.1.8",
+    "DeploymentDate": "2026-05-18",
     "Status": "DEPLOYED"
   },
   {
     "Client": "DKCM",
-    "Project": "RECON_WEB",
+    "Application": "RECON",
+    "Module": "RECON_WEB",
     "Environment": "QA",
     "ReleaseId": "RLS-2001",
     "Version": "2.26.0609.548",
@@ -91,7 +131,8 @@
   },
   {
     "Client": "DKCM",
-    "Project": "RECON_WEB",
+    "Application": "RECON",
+    "Module": "RECON_WEB",
     "Environment": "UAT",
     "ReleaseId": "RLS-2000",
     "Version": "2.26.0605.544",
@@ -100,7 +141,8 @@
   },
   {
     "Client": "DKCM",
-    "Project": "RECON_WEB",
+    "Application": "RECON",
+    "Module": "RECON_WEB",
     "Environment": "PROD",
     "ReleaseId": "RLS-1999",
     "Version": "2.26.0525.525",
@@ -109,7 +151,8 @@
   },
   {
     "Client": "DKCM",
-    "Project": "RECON_API",
+    "Application": "RECON",
+    "Module": "RECON_API",
     "Environment": "QA",
     "ReleaseId": "RLS-2001",
     "Version": "2.26.0609.548",
@@ -118,7 +161,8 @@
   },
   {
     "Client": "DKCM",
-    "Project": "RECON_API",
+    "Application": "RECON",
+    "Module": "RECON_API",
     "Environment": "UAT",
     "ReleaseId": "RLS-2000",
     "Version": "2.26.0605.544",
@@ -127,7 +171,8 @@
   },
   {
     "Client": "DKCM",
-    "Project": "RECON_API",
+    "Application": "RECON",
+    "Module": "RECON_API",
     "Environment": "PROD",
     "ReleaseId": "RLS-1999",
     "Version": "2.26.0525.525",
@@ -136,34 +181,68 @@
   },
   {
     "Client": "DKCM",
-    "Project": "RECON_DB",
+    "Application": "GRM",
+    "Module": "GRM_API",
     "Environment": "QA",
-    "ReleaseId": "RLS-2001",
-    "Version": "2.26.0609.549",
-    "DeploymentDate": "2026-06-10",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": "DKCM",
-    "Project": "RECON_DB",
-    "Environment": "UAT",
-    "ReleaseId": "RLS-2000",
-    "Version": "2.26.0605.545",
+    "ReleaseId": "RLS-2101",
+    "Version": "6.0.0",
     "DeploymentDate": "2026-06-05",
     "Status": "DEPLOYED"
   },
   {
     "Client": "DKCM",
-    "Project": "RECON_DB",
+    "Application": "GRM",
+    "Module": "GRM_API",
+    "Environment": "UAT",
+    "ReleaseId": "RLS-2100",
+    "Version": "5.9.8",
+    "DeploymentDate": "2026-05-28",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "DKCM",
+    "Application": "GRM",
+    "Module": "GRM_API",
     "Environment": "PROD",
-    "ReleaseId": "RLS-1999",
-    "Version": "2.26.0524.524",
-    "DeploymentDate": "2026-05-25",
+    "ReleaseId": "RLS-2099",
+    "Version": "5.9.6",
+    "DeploymentDate": "2026-05-15",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "DKCM",
+    "Application": "CIDM",
+    "Module": "CIDM_WEB",
+    "Environment": "QA",
+    "ReleaseId": "RLS-2201",
+    "Version": "4.0.0",
+    "DeploymentDate": "2026-06-06",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "DKCM",
+    "Application": "CIDM",
+    "Module": "CIDM_WEB",
+    "Environment": "UAT",
+    "ReleaseId": "RLS-2200",
+    "Version": "3.9.9",
+    "DeploymentDate": "2026-05-29",
+    "Status": "FAILED"
+  },
+  {
+    "Client": "DKCM",
+    "Application": "CIDM",
+    "Module": "CIDM_WEB",
+    "Environment": "PROD",
+    "ReleaseId": "RLS-2199",
+    "Version": "3.9.8",
+    "DeploymentDate": "2026-05-10",
     "Status": "DEPLOYED"
   },
   {
     "Client": "KLIM",
-    "Project": "RECON_WEB",
+    "Application": "RECON",
+    "Module": "RECON_WEB",
     "Environment": "QA",
     "ReleaseId": "RLS-3001",
     "Version": "2.26.0610.551",
@@ -172,7 +251,8 @@
   },
   {
     "Client": "KLIM",
-    "Project": "RECON_WEB",
+    "Application": "RECON",
+    "Module": "RECON_WEB",
     "Environment": "UAT",
     "ReleaseId": "RLS-3000",
     "Version": "2.26.0606.546",
@@ -181,7 +261,8 @@
   },
   {
     "Client": "KLIM",
-    "Project": "RECON_WEB",
+    "Application": "RECON",
+    "Module": "RECON_WEB",
     "Environment": "PROD",
     "ReleaseId": "RLS-2999",
     "Version": "2.26.0526.526",
@@ -190,34 +271,8 @@
   },
   {
     "Client": "KLIM",
-    "Project": "RECON_API",
-    "Environment": "QA",
-    "ReleaseId": "RLS-3001",
-    "Version": "2.26.0610.551",
-    "DeploymentDate": "2026-06-10",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": "KLIM",
-    "Project": "RECON_API",
-    "Environment": "UAT",
-    "ReleaseId": "RLS-3000",
-    "Version": "2.26.0606.546",
-    "DeploymentDate": "2026-06-06",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": "KLIM",
-    "Project": "RECON_API",
-    "Environment": "PROD",
-    "ReleaseId": "RLS-2999",
-    "Version": "2.26.0526.526",
-    "DeploymentDate": "2026-05-26",
-    "Status": "DEPLOYED"
-  },
-  {
-    "Client": "KLIM",
-    "Project": "RECON_DB",
+    "Application": "RECON",
+    "Module": "RECON_DB",
     "Environment": "QA",
     "ReleaseId": "RLS-3001",
     "Version": "2.26.0610.552",
@@ -226,7 +281,8 @@
   },
   {
     "Client": "KLIM",
-    "Project": "RECON_DB",
+    "Application": "RECON",
+    "Module": "RECON_DB",
     "Environment": "UAT",
     "ReleaseId": "RLS-3000",
     "Version": "2.26.0606.547",
@@ -235,11 +291,132 @@
   },
   {
     "Client": "KLIM",
-    "Project": "RECON_DB",
+    "Application": "RECON",
+    "Module": "RECON_DB",
     "Environment": "PROD",
     "ReleaseId": "RLS-2999",
     "Version": "2.26.0525.525",
     "DeploymentDate": "2026-05-26",
+    "Status": "FAILED"
+  },
+  {
+    "Client": "KLIM",
+    "Application": "GRM",
+    "Module": "GRM_WEB",
+    "Environment": "QA",
+    "ReleaseId": "RLS-3101",
+    "Version": "6.2.0",
+    "DeploymentDate": "2026-06-08",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "KLIM",
+    "Application": "GRM",
+    "Module": "GRM_WEB",
+    "Environment": "UAT",
+    "ReleaseId": "RLS-3100",
+    "Version": "6.1.8",
+    "DeploymentDate": "2026-06-01",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "KLIM",
+    "Application": "GRM",
+    "Module": "GRM_WEB",
+    "Environment": "PROD",
+    "ReleaseId": "RLS-3099",
+    "Version": "6.1.5",
+    "DeploymentDate": "2026-05-18",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "JPMC",
+    "Application": "RECON",
+    "Module": "RECON_WEB",
+    "Environment": "QA",
+    "ReleaseId": "RLS-4001",
+    "Version": "2.30.0101.600",
+    "DeploymentDate": "2026-06-11",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "JPMC",
+    "Application": "RECON",
+    "Module": "RECON_WEB",
+    "Environment": "UAT",
+    "ReleaseId": "RLS-4000",
+    "Version": "2.29.1225.598",
+    "DeploymentDate": "2026-06-04",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "JPMC",
+    "Application": "RECON",
+    "Module": "RECON_WEB",
+    "Environment": "PROD",
+    "ReleaseId": "RLS-3999",
+    "Version": "2.29.1201.590",
+    "DeploymentDate": "2026-05-20",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "JPMC",
+    "Application": "PAYMENTS",
+    "Module": "PAYMENT_API",
+    "Environment": "QA",
+    "ReleaseId": "RLS-4101",
+    "Version": "9.1.0",
+    "DeploymentDate": "2026-06-09",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "JPMC",
+    "Application": "PAYMENTS",
+    "Module": "PAYMENT_API",
+    "Environment": "UAT",
+    "ReleaseId": "RLS-4100",
+    "Version": "9.0.9",
+    "DeploymentDate": "2026-06-02",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "JPMC",
+    "Application": "PAYMENTS",
+    "Module": "PAYMENT_API",
+    "Environment": "PROD",
+    "ReleaseId": "RLS-4099",
+    "Version": "9.0.7",
+    "DeploymentDate": "2026-05-18",
+    "Status": "FAILED"
+  },
+  {
+    "Client": "JPMC",
+    "Application": "AUTH",
+    "Module": "AUTH_WEB",
+    "Environment": "QA",
+    "ReleaseId": "RLS-4201",
+    "Version": "5.2.1",
+    "DeploymentDate": "2026-06-04",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "JPMC",
+    "Application": "AUTH",
+    "Module": "AUTH_WEB",
+    "Environment": "UAT",
+    "ReleaseId": "RLS-4200",
+    "Version": "5.2.0",
+    "DeploymentDate": "2026-05-28",
+    "Status": "DEPLOYED"
+  },
+  {
+    "Client": "JPMC",
+    "Application": "AUTH",
+    "Module": "AUTH_WEB",
+    "Environment": "PROD",
+    "ReleaseId": "RLS-4199",
+    "Version": "5.1.9",
+    "DeploymentDate": "2026-05-12",
     "Status": "DEPLOYED"
   }
 ]
